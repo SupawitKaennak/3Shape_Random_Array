@@ -1,0 +1,16 @@
+C:\Users\Supaw\source\repos\midterm\midterm\bin\Debug\net8.0-windows\midterm.exe
+C:\Users\Supaw\source\repos\midterm\midterm\bin\Debug\net8.0-windows\midterm.deps.json
+C:\Users\Supaw\source\repos\midterm\midterm\bin\Debug\net8.0-windows\midterm.runtimeconfig.json
+C:\Users\Supaw\source\repos\midterm\midterm\bin\Debug\net8.0-windows\midterm.dll
+C:\Users\Supaw\source\repos\midterm\midterm\bin\Debug\net8.0-windows\midterm.pdb
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.Form1.resources
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.csproj.GenerateResource.cache
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.AssemblyInfoInputs.cache
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.AssemblyInfo.cs
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.csproj.CoreCompileInputs.cache
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.dll
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\refint\midterm.dll
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.pdb
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\midterm.genruntimeconfig.cache
+C:\Users\Supaw\source\repos\midterm\midterm\obj\Debug\net8.0-windows\ref\midterm.dll
